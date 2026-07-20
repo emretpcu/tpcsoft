@@ -181,13 +181,13 @@ const PORTFOLIO_PROJECTS = [
     title: 'elifdenim.com',
     category: 'web-design',
     categoryLabel: 'Özel Web Tasarım & B2B',
-    description: 'Uluslararası hazır giyim ve tekstil pazarı için özel olarak tasarlanmış, şık, hızlı ve çok dilli ürün sergileme ve kurumsal tanıtım platformu.',
-    techStack: ['Özel Tasarım', 'Katalog', 'Çoklu Dil', 'Mobil Uyum'],
+    description: 'Uluslararası hazır giyim ve tekstil pazarı için özel olarak tasarlanmış, şık ve hızlı ürün sergileme ve kurumsal tanıtım platformu.',
+    techStack: ['Özel Tasarım', 'Katalog', 'Mobil Uyum'],
     features: [
       'Tüm tekstil kreasyonlarını yüksek çözünürlükte sunan akıcı görsel katalog altyapısı',
       'Mobil cihazlar ve tabletlerle tam uyumlu, hızlı yüklenen modern arayüz',
       'Arama motorlarında üst sıralarda yer almayı sağlayan güçlü SEO optimizasyonu',
-      'Yurtdışı müşteriler için entegre çoklu dil ve kolay içerik yönetim paneli'
+      'Kolay ürün katalog yönetimi ve sade içerik yönetim paneli'
     ]
   },
   {
@@ -195,13 +195,13 @@ const PORTFOLIO_PROJECTS = [
     title: 'willowdenim.com',
     category: 'web-design',
     categoryLabel: 'Premium Web Tasarım',
-    description: 'Küresel moda ve denim trendlerine yön veren seçkin bir marka için tasarladığımız, kullanıcı deneyimi odaklı, yüksek prestijli kurumsal web sitesi.',
-    techStack: ['UI/UX', 'Modern Tasarım', 'Hızlı Altyapı'],
+    description: 'Küresel moda ve denim trendlerine yön veren seçkin bir marka için tasarladığımız, çok dilli, kullanıcı deneyimi odaklı ve yüksek prestijli kurumsal web sitesi.',
+    techStack: ['UI/UX', 'Çoklu Dil', 'Modern Tasarım', 'Hızlı Altyapı'],
     features: [
       'Markanın premium algısını pekiştiren özgün, modern ve minimalist arayüz tasarımı',
       'Ziyaretçiyi yormayan, sayfa içi akıcı animasyonlar ve estetik geçişler',
       'Google hız kriterlerinde tam puan alan yüksek performanslı altyapı',
-      'Müşterilerin kolayca iletişime geçebileceği hızlı etkileşim modülleri'
+      'Yurtdışı müşteriler için entegre çoklu dil ve kolay içerik yönetim paneli'
     ]
   },
   {
